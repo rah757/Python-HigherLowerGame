@@ -1,57 +1,93 @@
 data = [
     {
-        'name': 'Instagram',
-        'follower_count': 346,
-        'description': 'Social media platform',
-        'country': 'United States'
+        "name": "Facebook",
+        "followerCount": 2910000000,
+        "country": "United States",
+        "description": "Social media platform"
     },
     {
-        'name': 'Cristiano Ronaldo',
-        'follower_count': 215,
-        'description': 'Footballer',
-        'country': 'Portugal'
+        "name": "Instagram",
+        "followerCount": 2460000000,
+        "country": "United States",
+        "description": "Social media platform for sharing photos and videos"
     },
     {
-        'name': 'Ariana Grande',
-        'follower_count': 183,
-        'description': 'Musician and actress',
-        'country': 'United States'
+        "name": "YouTube",
+        "followerCount": 2560000000,
+        "country": "United States",
+        "description": "Video sharing platform"
     },
     {
-        'name': 'Facebook',
-        'follower_count': 285,
-        'description': 'Social media platform',
-        'country': 'United States'
+        "name": "TikTok",
+        "followerCount": 1650000000,
+        "country": "China",
+        "description": "Short-form video sharing platform"
     },
     {
-        'name': 'Lionel Messi',
-        'follower_count': 203,
-        'description': 'Footballer',
-        'country': 'Argentina'
+        "name": "WhatsApp",
+        "followerCount": 2400000000,
+        "country": "United States",
+        "description": "Messaging app"
     },
     {
-        'name': 'Taylor Swift',
-        'follower_count': 147,
-        'description': 'Singer-songwriter',
-        'country': 'United States'
+        "name": "WeChat",
+        "followerCount": 1260000000,
+        "country": "China",
+        "description": "Messaging app with social features"
     },
     {
-        'name': 'Twitter',
-        'follower_count': 330,
-        'description': 'Social media platform',
-        'country': 'United States'
+        "name": "QQ",
+        "followerCount": 538910000,
+        "country": "China",
+        "description": "Instant messaging platform"
     },
     {
-        'name': 'Beyoncé',
-        'follower_count': 152,
-        'description': 'Musician and actress',
-        'country': 'United States'
+        "name": "Weibo",
+        "followerCount": 573000000,
+        "country": "China",
+        "description": "Microblogging platform"
     },
     {
-        'name': 'YouTube',
-        'follower_count': 2.3e9,
-        'description': 'Video sharing platform',
-        'country': 'United States'
+        "name": "Telegram",
+        "followerCount": 700000000,
+        "country": "Russia",
+        "description": "Messaging app with a focus on privacy and security"
+    },
+    {
+        "name": "Twitter",
+        "followerCount": 436000000,
+        "country": "United States",
+        "description": "Microblogging platform"
+    },
+    {
+        "name": "Pinterest",
+        "followerCount": 444000000,
+        "country": "United States",
+        "description": "Social media platform for sharing images and ideas"
+    },
+    {
+        "name": "Reddit",
+        "followerCount": 430000000,
+        "country": "United States",
+        "description": "Social news aggregation and discussion website"
+    },
+    {
+        "name": "LinkedIn",
+        "followerCount": 310000000,
+        "country": "United States",
+        "description": "Social networking platform for professionals"
+    },
+    {
+        "name": "Snapchat",
+        "followerCount": 601000000,
+        "country": "United States",
+        "description": "Messaging app with ephemeral content"
+    },
+    {
+        "name": "Discord",
+        "followerCount": 350000000,
+        "country": "United States",
+        "description": "Messaging and voice chat app for gamers and communities"
     }
 ]
 

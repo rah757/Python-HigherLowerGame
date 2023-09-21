@@ -38,14 +38,14 @@ def calculateAnswer(answer,score):
 
 while StillInGame == True:
     itemA, itemB = DrawAandB(itemA,itemB,answer)
-    valueA = itemA['follower_count']
-    valueB = itemB['follower_count']
+    valueA = itemA['followerCount']
+    valueB = itemB['followerCount']
     print(f"Compare A: {itemA['name']}, a {itemA['description']} from {itemA['country']}.")
     print(data.vs)
     while itemB == itemA:
         itemB = random.choice(data.data)
     print(f"Against B: {itemB['name']}, a {itemB['description']} from {itemB['country']}.")
-    valueB = itemB['follower_count']     
+    valueB = itemB['followerCount']     
     answer = input("\nWho has more followers? Type 'A' or 'B': ").lower()
     score,win = calculateAnswer(answer,score)
     if win == False:

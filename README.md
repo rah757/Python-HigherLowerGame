@@ -4,6 +4,10 @@
 
 The Python Higher-Lower Game is a simple and entertaining game project created during the 14th day of the [100 Days of Code](https://www.udemy.com/course/100-days-of-code/) challenge. This game allows you to compare the follower counts of two randomly selected items and guess which one has more followers. Your goal is to accumulate the highest score possible by making correct guesses.
 
+## Screenshots
+![image](https://github.com/rah757/Python-HigherLowerGame/assets/69799424/7c907951-eb53-4e67-92b2-c5176552dd49)
+
+
 ## How to Play
 
 1. Run the game by executing the Python script.
